@@ -13,6 +13,11 @@
 <a href="https://www.linkedin.com/in/v%C5%A9-ng%E1%BB%8Dc-long-379303173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leovu" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Badges:</h3>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
