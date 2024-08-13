@@ -13,5 +13,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: long-vu-ngoc
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 24
