@@ -21,5 +21,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: long-vu-ngoc
-          BADGE_SIZE: 25
-          NUMBER_LAST_BADGES: 24
+          BADGE_SIZE: 50
