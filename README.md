@@ -16,14 +16,14 @@
 <h3 align="left">Badges:</h3>
 
 <!--START_SECTION:badges-->
-[![IBM AI Engineering Professional Certificate (V2)](https://images.credly.com/size/25x25/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](http://www.credly.com/badges/1fee3221-2b2c-41bb-bb3b-fc2e6e81c061 "IBM AI Engineering Professional Certificate (V2)")
-[![Deep Learning with Tensorflow](https://images.credly.com/size/25x25/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png)](http://www.credly.com/badges/029e55fe-1a94-4674-842b-58086002ff10 "Deep Learning with Tensorflow")
-[![Computer Vision and Image Processing Essentials](https://images.credly.com/size/25x25/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png)](http://www.credly.com/badges/e6e81fb0-ed1d-4852-83d6-ef3438c94ad3 "Computer Vision and Image Processing Essentials")
-[![Deep Learning Essentials with Keras](https://images.credly.com/size/25x25/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)](http://www.credly.com/badges/5b6ad011-2113-49a6-b283-3097fecd1eb6 "Deep Learning Essentials with Keras")
-[![Deep Neural Networks with PyTorch](https://images.credly.com/size/25x25/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png)](http://www.credly.com/badges/b5b1bd5b-5bff-4732-bc61-49e6d386cc4e "Deep Neural Networks with PyTorch")
-[![Machine Learning with Python](https://images.credly.com/size/25x25/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png)](http://www.credly.com/badges/5ccdadfc-245b-4cb8-aa37-90bdd411baed "Machine Learning with Python")
-[![Google Project Management Certificate](https://images.credly.com/size/25x25/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](http://www.credly.com/badges/a4dc9c6e-0d08-4c9c-9617-6e0f7d77bbb6 "Google Project Management Certificate")
-[![Data Analysis with Python](https://images.credly.com/size/25x25/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png)](http://www.credly.com/badges/bf101914-f2fa-4f94-8c55-2523bf24f07e "Data Analysis with Python")
+[![IBM AI Engineering Professional Certificate (V2)](https://images.credly.com/size/50x50/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](http://www.credly.com/badges/1fee3221-2b2c-41bb-bb3b-fc2e6e81c061 "IBM AI Engineering Professional Certificate (V2)")
+[![Deep Learning with Tensorflow](https://images.credly.com/size/50x50/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png)](http://www.credly.com/badges/029e55fe-1a94-4674-842b-58086002ff10 "Deep Learning with Tensorflow")
+[![Computer Vision and Image Processing Essentials](https://images.credly.com/size/50x50/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png)](http://www.credly.com/badges/e6e81fb0-ed1d-4852-83d6-ef3438c94ad3 "Computer Vision and Image Processing Essentials")
+[![Deep Learning Essentials with Keras](https://images.credly.com/size/50x50/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)](http://www.credly.com/badges/5b6ad011-2113-49a6-b283-3097fecd1eb6 "Deep Learning Essentials with Keras")
+[![Deep Neural Networks with PyTorch](https://images.credly.com/size/50x50/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png)](http://www.credly.com/badges/b5b1bd5b-5bff-4732-bc61-49e6d386cc4e "Deep Neural Networks with PyTorch")
+[![Machine Learning with Python](https://images.credly.com/size/50x50/images/f283df3d-1780-4c2d-947d-fc80eae0953b/image.png)](http://www.credly.com/badges/5ccdadfc-245b-4cb8-aa37-90bdd411baed "Machine Learning with Python")
+[![Google Project Management Certificate](https://images.credly.com/size/50x50/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png)](http://www.credly.com/badges/a4dc9c6e-0d08-4c9c-9617-6e0f7d77bbb6 "Google Project Management Certificate")
+[![Data Analysis with Python](https://images.credly.com/size/50x50/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png)](http://www.credly.com/badges/bf101914-f2fa-4f94-8c55-2523bf24f07e "Data Analysis with Python")
 <!--END_SECTION:badges-->
 
 <h3 align="left">Languages and Tools:</h3>
